@@ -1,5 +1,11 @@
 # Tarea 2 Algoritmos, Redes y Equidad
 
+### Debe clonar este repositorio en una carpeta local en su computador utilizando $git clone
+
+### Ábralo con VSCode e instale la extensión de Jupyter correspondiente. (cuando vaya a correr la primera celda VSCode recomendará una si no tiene ya).
+
+### Asegúrese de utilizar un ambiente virtual vacío o que no ocasione problemas con las librerías a utilizar.
+
 ### Para correr el código es necesario instalar las siguientes librerías de python:
 - opendatasets
 - scikit-learn
